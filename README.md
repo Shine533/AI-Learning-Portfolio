@@ -44,7 +44,7 @@ This repository serves as my **living resume** and **project portfolio**. It doc
 ### 📫 Let's Connect
 I am actively seeking an entry-level/Junior AI Application Engineer role where I can leverage my business insight and coding skills.
 
-- **Portfolio:** [Your GitHub Pages or Blog Link]
+- **Portfolio:** [https://shine533.github.io/AI-Learning-Portfolio/Shine_Profile/]
 - **LinkedIn:** [Your LinkedIn URL]
 - **Email:** [Shinewu533@outlook.com]
 
