@@ -1,1 +1,29 @@
+# Phase 1: Python Foundation Practice
 
+This folder contains hands-on projects from the Python foundation learning stage, covering data processing, file operations, and basic visualization.
+
+## Project List
+
+| Project | File | Description |
+| :--- | :--- | :--- |
+| English Article Word Frequency Analyzer | `1_article count.py` | Counts word frequency in English articles using strings and dictionaries. Supports stopword filtering, lemmatization, and bar chart visualization. |
+| Foreign Trade Inventory Management System | `2_product management system.py` | Simulates inventory management with lists and dictionaries. Supports CRUD, supplier field, and stock alerts. Data persists to Excel. |
+
+## Key Takeaways
+
+- Mastered Python basics: strings, lists, dictionaries, loops, functions
+- Learned to use `pandas` for reading/writing Excel files
+- Gained initial experience with data visualization (`matplotlib`)
+- Understood the concept of data persistence
+- Practiced file path handling and exception handling
+
+## Environment
+
+- Python 3.x
+- pandas, matplotlib, nltk, openpyxl
+
+## How to Run
+
+1. Install dependencies: `pip install pandas matplotlib nltk openpyxl`
+2. Run word frequency analyzer: `python "1_article count.py"`
+3. Run inventory management system: `python "2_product management system.py"`
