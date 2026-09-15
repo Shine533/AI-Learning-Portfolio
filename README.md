@@ -10,7 +10,7 @@ This repository serves as my **living resume** and **project portfolio**. It doc
 ---
 
 ### 📚 Learning Roadmap Progress
-- [×] **Phase 1: Foundation** (Python, Pandas, Numpy, Data Viz)
+- [x] **Phase 1: Foundation** (Python, Pandas, Numpy, Data Viz)
 - [ ] **Phase 2: Machine Learning** (Sklearn, XGBoost, Clustering)
 - [ ] **Phase 3: Deep Learning & LLMs** (PyTorch, Transformer, RAG, LangChain)
 - [ ] **Phase 4: MLOps & Deployment** (FastAPI, Docker, ONNX)
