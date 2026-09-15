@@ -10,11 +10,11 @@ This repository serves as my **living resume** and **project portfolio**. It doc
 ---
 
 ### 📚 Learning Roadmap Progress
-- [x] **Phase 1: Foundation** (Python, Pandas, Numpy, Data Viz)
+- [ ] **Phase 1: Foundation** (Python, Pandas, Numpy, Data Viz)
 - [ ] **Phase 2: Machine Learning** (Sklearn, XGBoost, Clustering)
 - [ ] **Phase 3: Deep Learning & LLMs** (PyTorch, Transformer, RAG, LangChain)
 - [ ] **Phase 4: MLOps & Deployment** (FastAPI, Docker, ONNX)
-- [x] **Phase 5: AI Tools Practice** (WorkBuddy, Doubao, DeepSeek, Coze, Qwen)
+- [ ] **Phase 5: AI Tools Practice** (WorkBuddy, Doubao, DeepSeek, Coze, Qwen)
 
 ---
 
@@ -41,28 +41,31 @@ This repository serves as my **living resume** and **project portfolio**. It doc
 ---
 
 ### 💡 How to Navigate This Repo
-AI-Learning-Portfolio/  
-├── phase_1_python_basics/ # Python basics & small projects (Pandas/Matplotlib)
-│ ├── README.md
-│ ├── 1_article count.py # Word frequency analyzer
-│ ├── 2_product management system.py # Inventory management system
-│ ├── article.txt
-│ └── word_frequency_chart.png
-├── phase_2_ml_models/ # Jupyter notebooks for XGBoost/Clustering
-├── phase_3_llm_applications/ # Core project: RAG + LangChain agent
-├── phase_4_deployment/ # Dockerfile & FastAPI main.py
-├── ai_tools_practice/ # 30-day AI tools practice logs & workflows
-│ └── README.md
-├── notes/ # Learning notes
-└── README.md # You are here :)
+
+```
+AI-Learning-Portfolio/
+├── phase_1_python_basics/       # Python basics & small projects
+│   ├── README.md
+│   ├── 1_article count.py       # Word frequency analyzer
+│   ├── 2_product management system.py  # Inventory management system
+│   ├── article.txt
+│   └── word_frequency_chart.png
+├── phase_2_ml_models/           # Machine learning notebooks
+├── phase_3_llm_applications/    # LLM & RAG projects
+├── phase_4_deployment/          # FastAPI & Docker
+├── ai_tools_practice/           # 30-day AI tools practice
+│   └── README.md
+├── notes/                       # Learning notes
+└── README.md                    # You are here :)
+```
 
 ---
 
 ### 📫 Let's Connect
 I am actively seeking an entry-level/Junior AI Application Engineer role where I can leverage my business insight and coding skills.
 
-- **Portfolio:** [[Your GitHub Pages or Blog Link](https://shine533.github.io/AI-Learning-Portfolio/Shine_Profile/)]
-- **GitHub:** [https://github.com/Shine533](https://github.com/Shine533)
+- **Portfolio:** [https://shine533.github.io/AI-Learning-Portfolio/Shine_Profile/]
+- **GitHub:** [https://github.com/Shine533]
 - **Email:** Shinewu533@outlook.com
 
 ---
