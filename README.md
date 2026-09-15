@@ -41,7 +41,7 @@ This repository serves as my **living resume** and **project portfolio**. It doc
 ---
 
 ### 💡 How to Navigate This Repo
-AI-Learning-Portfolio/
+AI-Learning-Portfolio/  
 ├── phase_1_python_basics/ # Python basics & small projects (Pandas/Matplotlib)
 │ ├── README.md
 │ ├── 1_article count.py # Word frequency analyzer
