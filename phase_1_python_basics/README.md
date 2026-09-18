@@ -10,6 +10,7 @@ This folder contains hands-on projects from the Python foundation learning stage
 | Foreign Trade Inventory Management System | `2_product management system.py` | Simulates inventory management with lists and dictionaries. Supports CRUD, supplier field, and stock alerts. Data persists to Excel. |
 | Number Guessing Game | `3_number_guessing_game.py` | A classic guessing game with difficulty levels, attempt limits, and input validation. |
 | Number Guessing Game (GUI) | `3_number_guessing_gui.py` | A window-based guessing game built with tkinter. Features difficulty selection, attempt limits, and input validation. |
+| BMI Calculator (GUI) | `5_bmi_calculator.py` | A tkinter-based BMI calculator with input validation, BMI calculation, and category display. |
 
 ## Key Takeaways
 
