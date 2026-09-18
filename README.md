@@ -54,7 +54,9 @@ AI-Learning-Portfolio/
 ├── phase_3_llm_applications/    # LLM & RAG projects
 ├── phase_4_deployment/          # FastAPI & Docker
 ├── ai_tools_practice/           # 30-day AI tools practice
-│   └── README.md
+│   ├── README.md
+│   ├── day01_electrical_chatgpt_keywords
+│   └── day02_alsontech-en-homepage-seo-audit
 ├── notes/                       # Learning notes
 └── README.md                    # You are here :)
 ```
