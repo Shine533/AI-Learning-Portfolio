@@ -1,5 +1,7 @@
 # Phase 1: Python Foundation Practice
 
+本阶段 5 个 Python 基础项目已全部完成，作为阶段性成果归档。
+
 This folder contains hands-on projects from the Python foundation learning stage, covering data processing, file operations, and basic visualization.
 
 ## Project List
